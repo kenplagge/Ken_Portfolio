@@ -1,7 +1,7 @@
 # Ken_Portfolio
 Example data science portfolio
 
-[Project 1: Git and Git] (https://github.com/kenplagge/intro-to-git.git)
+# [Project 1: Git and Git] (https://github.com/kenplagge/intro-to-git.git)
 echo "# intro-to-git" >> README.md
 git init
 git add README.md
